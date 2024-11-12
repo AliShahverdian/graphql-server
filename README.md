@@ -42,5 +42,5 @@ This is a GraphQL API built using Apollo Server and TypeScript. The API provides
 2. start server
 
 ```bash
- npm start
+ npm run dev
 ```
