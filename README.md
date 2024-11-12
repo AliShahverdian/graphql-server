@@ -31,10 +31,16 @@ This is a GraphQL API built using Apollo Server and TypeScript. The API provides
 └── README.md
 ```
 
-# Start server
+## Get started
 
-For starting the server use below command
+1. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+2. start server
 
 ```bash
- npm run dev
+ npm start
 ```
