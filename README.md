@@ -44,3 +44,12 @@ This is a GraphQL API built using Apollo Server and TypeScript. The API provides
 ```bash
  npm run dev
 ```
+
+3. run docker
+
+run these two command to run docker
+
+```bash
+ docker build -t graphql-image .
+ docker run -d -p 80:4000 --name graphql-server graphql-image
+```
